@@ -14,7 +14,9 @@ func_e(a, b) {
   if b != 0
     return a / b
   else
-    return 0
+    return 2
+  if a != 1
+    return 999
 }
 
 func_x(a, b) {
