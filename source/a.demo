@@ -12,7 +12,9 @@ func_d(a, b) {
 
 func_e(a, b) {
   if a != 0
-   return 1
+    return 1
+  else
+    return a / b
 }
 
 func_f(a, b) {

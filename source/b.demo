@@ -10,5 +10,6 @@ class func_a
     x
     y
     z
+    set_x
     get_sub_result()
 }
