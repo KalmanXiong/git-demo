@@ -16,3 +16,7 @@ func_e(a, b) {
   else
     return 0
 }
+
+func_x(a, b) {
+  return a * 2 - b
+}
