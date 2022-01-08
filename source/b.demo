@@ -1,0 +1,14 @@
+class func_a
+{
+  public:
+    a
+    b
+    c
+    get_x()
+    set_x()
+  private:
+    x
+    y
+    z
+    get_sub_result()
+}
